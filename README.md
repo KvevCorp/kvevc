@@ -9,7 +9,7 @@ To use the `xocc` compiler, follow the instructions below:
 
 Make sure you have the following installed on your system:
 
-- [git](git) (required for installation!)
+- [git](github.com/git-guides/install-git) (required for installation!)
 
 then: Proceed with [installation](github.com/Xocrium/xocc/blub/README.md#installing-xocc-compiler)
 
