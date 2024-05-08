@@ -1,17 +1,21 @@
 # xocc
 xocc
 
-## How to Use the Compiler
+## INSTALLATION
 
-To use the `xocrium` compiler, follow the instructions below:
+To use the `xocc` compiler, follow the instructions below:
 
 ### Prerequisites
 
 Make sure you have the following installed on your system:
 
-- [xocrium compiler](link-to-compiler) (replace with the actual link to download or install instructions)
+- [git](git) (required for installation!)
 
-### Usage
+then: Proceed with [installation}(github.com/Xocrium/xocc/blub/README.md#installing-xocc-compiler)
+
+### Installing xocc-Compiler
+
+## USAGE
 
 The `xocc` compiler supports the following command-line options:
 
@@ -19,7 +23,7 @@ The `xocc` compiler supports the following command-line options:
 - `-o <file>`: Specify the output file name. If not provided, the default output file is `output.exe`.
 - `-r`: Run the compiled executable after compilation.
 
-#### Examples
+### Examples
 
 1. **Compile a file:**
 
@@ -27,13 +31,12 @@ The `xocc` compiler supports the following command-line options:
    
 3. Compile and specify the output file:
 
-  `xocrium -c main.xoc -o myprogram.exe`
+  `xocc -c main.xoc -o myprogram.exe`
 
 3. Compile and run the program:
 
-  `xocrium -c main.xoc -r`
+  `xocc -c main.xoc -r`
 
-#### Notes
+### Notes
 
   If no options are provided, the compiler will display the help message.
-  Multiple input files can be provided for compilation.
