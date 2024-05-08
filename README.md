@@ -11,7 +11,7 @@ Make sure you have the following installed on your system:
 
 - [git](git) (required for installation!)
 
-then: Proceed with [installation}(github.com/Xocrium/xocc/blub/README.md#installing-xocc-compiler)
+then: Proceed with [installation](github.com/Xocrium/xocc/blub/README.md#installing-xocc-compiler)
 
 ### Installing xocc-Compiler
 
