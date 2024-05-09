@@ -1,5 +1,7 @@
-# xocc
-xocc
+![Xocrium Company Logo](https://github.com/Xocrium/xoc-assets/blob/main/logo/png/logo-company-gradient.png)
+
+# XOC Compiler [XOCC]
+![Xocrium Logo](https://github.com/Xocrium/xoc-assets/blob/main/logo/png/logo-extension-gradient.png)
 
 ## INSTALLATION
 
