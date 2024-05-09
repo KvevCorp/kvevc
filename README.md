@@ -1,7 +1,7 @@
-<img src="https://github.com/Xocrium/xoc-assets/blob/main/logo/png/gradient/logo-company-gradient.png" alt="Xoxrium Company Logo">
+<img src="https://github.com/Xocrium/xoc-assets/blob/main/logo/png/gradient/logo-company-gradient.png" alt="Xoxrium Company Logo" class="center">
 
 # XOC Compiler [XOCC]
-<img src="https://github.com/Xocrium/xoc-assets/blob/main/logo/png/gradient/logo-extension-gradient.png" alt="Xocrium Compiler Logo" style="width:50px; height:50px; align-content:center">
+<img src="https://github.com/Xocrium/xoc-assets/blob/main/logo/png/gradient/logo-extension-gradient.png" alt="Xocrium Compiler Logo" style="width:50px; height:50px">
 
 ## INSTALLATION
 To use the `xocc` compiler, follow the instructions.
@@ -50,3 +50,10 @@ The `xocc` compiler supports the following command-line options:
 
   Do `xocc -h` or `xocc --help` to see the help message and get a brief overview of the compilers options.
 
+<style>
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
