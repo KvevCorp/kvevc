@@ -1,7 +1,7 @@
 ![Xocrium Company Logo](https://github.com/Xocrium/xoc-assets/blob/main/logo/png/gradient/logo-company-gradient.png)
 
 # XOC Compiler [XOCC]
-<img src="https://github.com/Xocrium/xoc-assets/blob/main/logo/png/gradient/logo-extension-gradient.png" alt=" width="50%" height="50%"/>
+![Xocrium Compiler Logo](https://github.com/Xocrium/xoc-assets/blob/main/logo/png/gradient/logo-extension-gradient.png){width=100px height=100px}
 
 ## INSTALLATION
 To use the `xocc` compiler, follow the instructions.
