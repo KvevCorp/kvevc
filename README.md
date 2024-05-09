@@ -20,19 +20,19 @@ Make sure you have the following installed on your system:
 ## USAGE
 The `xocc` compiler supports the following arguments / options:
 
-| compact / short command | hilariously long command (for beginners / newbies) | function / description                                                                                                                |
-|-------------------------|----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| `-c`                    | `--compile`                                        | Compile the default xoc-file, which is `main.xoc`.                                                                                    |
-| `-cf <file.xoc>`        | `--compilefile <file.xoc>`                         | Compile the specified input file, which has to have the file extension `.xoc`.                                                        |
-| `-o <file>`             | `--output <file>`                                  | Specify the output file name. If not provided, the default output file will be `output.exe` (Windows) or `output.out` (Linux).        |
-| `-r`                    | `--run`                                            | Run the compiled executable after compilation. Can only be used in combination with the compile (`-compile` or `--compile`) argument. |
-| `-n <name>`             | `--new <name>`                                     | Create a new xoc-project named after the specified name.                                                                              |
-| `-nh`                   | `--newhere`                                        | Create a new xoc-project in the current directory.                                                                                    |
-| `-np <path> <name>`     | `--newrelative <path> <name>`                      | Create a new xoc-project in a different directory (you specified the **relative path** to) named after the specified name.            |
-| `-na <path> <name>`     | `--newabsolute <path> <name>`                      | Create a new xoc-project in a different directory (you specified the **absolute path** to) named after the specified name.            |
-| `-b`                    | `--build`                                          | Build the project to get it working for compilation.                                                                                  |
-| `-u`                    | `--update`                                         | Check for updates and install them if there is a new version available.                                                               |
-| `-h`                    | `--help`                                           | Show the help message to show you how to use the `xocc`-Compiler.                                                                     |
+| compact / short command | hilariously long command (for beginners / newbies) | function / description                                                                                                          |
+|-------------------------|----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| `-c`                    | `--compile`                                        | Compile the default xoc-file, which is `main.xoc`.                                                                              |
+| `-cf <file.xoc>`        | `--compilefile <file.xoc>`                         | Compile the specified input file, which has to have the file extension `.xoc`.                                                  |
+| `-o <file>`             | `--output <file>`                                  | Specify the output file name. If not provided, the default output file will be `output.exe` (Windows) or `output.out` (Linux).  |
+| `-r`                    | `--run`                                            | Run the compiled executable after compilation. Can only be used in combination with the compile (`-c` or `--compile`) argument. |
+| `-n <name>`             | `--new <name>`                                     | Create a new xoc-project named after the specified name.                                                                        |
+| `-nh`                   | `--newhere`                                        | Create a new xoc-project in the current directory.                                                                              |
+| `-np <path> <name>`     | `--newrelative <path> <name>`                      | Create a new xoc-project in a different directory (you specified the **relative path** to) named after the specified name.      |
+| `-na <path> <name>`     | `--newabsolute <path> <name>`                      | Create a new xoc-project in a different directory (you specified the **absolute path** to) named after the specified name.      |
+| `-b`                    | `--build`                                          | Build the project to get it working for compilation.                                                                            |
+| `-u`                    | `--update`                                         | Check for updates and install them if there is a new version available.                                                         |
+| `-h`                    | `--help`                                           | Show the help message to show you how to use the `xocc`-Compiler.                                                               |
 
 ### Examples
 1. **Compile a file**
