@@ -47,7 +47,7 @@ The `xocc` compiler supports the following arguments / options:
   Execute `xocc -h` or `xocc --help` to see the help message and get a brief overview of the compilers options.
 
 ## CREATE A XOC-PROJECT
-1. Open your terminal and cd into the directory you want to create the project in.
+1. Open your terminal and `cd` into the directory you want to create the project in.
 2. Then use (decide what you want to do!):
    a. `xocc -n <name>` (a new folder with the project in the current directory)
    b. `xocc -nh` (a new project inside the current folder)
