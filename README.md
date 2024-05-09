@@ -1,7 +1,6 @@
 <img src="https://github.com/Xocrium/xoc-assets/blob/main/logo/png/gradient/logo-company-gradient.png" alt="Xoxrium Company Logo">
 
 # XOC Compiler [XOCC]
-<img src="https://github.com/Xocrium/xoc-assets/blob/main/logo/png/gradient/logo-extension-gradient.png" alt="Xocrium Compiler Logo" style="width:75px; height:75px">
 
 ## INSTALLATION
 To use the `xocc` compiler, follow the instructions.
@@ -59,14 +58,21 @@ The `xocc` compiler supports the following arguments / options:
 
 ## FILE-TYPES
 ### XOC
-<img src="https://github.com/Xocrium/xoc-assets/blob/main/logo/png/gradient/logo-extension-gradient.png" alt="Xocrium Compiler Logo" style="width:75px; height:75px"> XOC is the main file extension for your code.
+<img src="https://github.com/Xocrium/xoc-assets/blob/main/logo/png/gradient/logo-extension-gradient.png" alt="Xocrium Code File Logo" style="width:75px; height:75px"> 
+
+XOC is the main file extension for your code.
 
 ### XOCB
-<img src="https://github.com/Xocrium/xoc-assets/blob/main/logo/png/gradient/logo-extension-gradient.png" alt="Xocrium Compiler Logo" style="width:75px; height:75px"> XOCB is the build file where you can configure your project.
+<img src="https://github.com/Xocrium/xoc-assets/blob/main/logo/png/gradient/logo-extension-make-gradient.png" alt="Xocrium Build File Logo" style="width:75px; height:75px"> 
+
+XOCB is the build file where you can configure your project.
 
 ### XOCP
-<img src="https://github.com/Xocrium/xoc-assets/blob/main/logo/png/gradient/logo-extension-gradient.png" alt="Xocrium Compiler Logo" style="width:75px; height:75px"> XOCP is the format for the properties files where there are e.g. `libs.xocp` where you can set the libraries the compiler should download for the compiling process. !(look up [important things about libraries](https://github.com/Xocrium/xocc#libraries))
+<img src="https://github.com/Xocrium/xoc-assets/blob/main/logo/png/gradient/logo-extension-properties-gradient.png" alt="Xocrium Properties File Logo" style="width:75px; height:75px"> 
+
+XOCP is the format for the properties files where there are e.g. `libs.xocp` where you can set the libraries the compiler should download for the compiling process. !(look up [important things about libraries](https://github.com/Xocrium/xocc#libraries))
 
 ## LIBRARIES
 > **Important**: Make shure you have your internet connection. Libraries can only be downloaded when there is a internet connection available. Otherwise the compiler can only use the already downloaded libraries for compilation. !(could lead to problems)
 
+<img src="https://github.com/Xocrium/xoc-assets/blob/main/logo/png/gradient/logo-libs-gradient.png" alt="Xocrium Libraries Logo" style="width:75px; height:75px">
