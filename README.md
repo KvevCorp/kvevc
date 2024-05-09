@@ -15,7 +15,7 @@ Make sure you have the following installed on your system:
 ### Installing xocc-Compiler
 1. Open the terminal and make shure that you have `git` installed by executing `git --version` in your favorite terminal. If no error shows up and you get a message that says something like `git version 2.39.1.windows.1`. Than you can proceed with the next step. If not, try to install `git` it again.
 2. Download the bash file (`.sh`) for your system type. E.g. for Linux: `install-linux.sh`.
-3. The last step is to run the bash script to install the compiler. For that, execute `./<filename>` (replace `<filename>` with the name of the bash file you downloaded!) in the directory you downloaded the bash file into or simply execute the file from the file explorer of your hearts desire.
+3. The last step is to run the bash script to install the compiler. For that, execute `./<filename>.sh` (replace `<filename>` with the name of the bash file you downloaded!) in the directory you downloaded the bash file into or simply execute the file from the file explorer of your hearts desire.
 4. Finish. You successfully installed the compiler onto your system!
 
 ## USAGE
