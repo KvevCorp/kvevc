@@ -1,13 +1,12 @@
-<img src="https://github.com/Xocrium/xoc-assets/blob/main/logo/png/gradient/logo-company-gradient.png" alt="Xoxrium Company Logo" style="width=50%; display:block; margin-left:auto; margin-right:auto">
+<img src="https://github.com/Xocrium/xoc-assets/blob/main/logo/png/gradient/logo-company-gradient.png" alt="Xoxrium Company Logo">
 
 # XOC Compiler [XOCC]
-<img src="https://github.com/Xocrium/xoc-assets/blob/main/logo/png/gradient/logo-extension-gradient.png" alt="Xocrium Compiler Logo" style="width:50px; height:50px">
+<img src="https://github.com/Xocrium/xoc-assets/blob/main/logo/png/gradient/logo-extension-gradient.png" alt="Xocrium Compiler Logo" style="width:75px; height:75px">asd
 
 ## INSTALLATION
 To use the `xocc` compiler, follow the instructions.
 
 ### Prerequisites
-
 Make sure you have the following installed on your system:
 
 - [git](github.com/git-guides/install-git) (required for installation!)
@@ -19,7 +18,6 @@ Make sure you have the following installed on your system:
 4. Finish. You successfully installed the compiler onto your system!
 
 ## USAGE
-
 The `xocc` compiler supports the following command-line options:
 
 | compact command  | long command               | function / description                                                                                                                |
@@ -33,7 +31,6 @@ The `xocc` compiler supports the following command-line options:
 | `-h`             | `--help`                   | Show the help message to show you how to use the `xocc`-Compiler                                                                      |
 
 ### Examples
-
 1. **Compile a file:**
 
   `xocc -c main.xoc`
@@ -47,13 +44,6 @@ The `xocc` compiler supports the following command-line options:
   `xocc -c main.xoc -r`
 
 ### Notes
-
   Do `xocc -h` or `xocc --help` to see the help message and get a brief overview of the compilers options.
 
-<style>
-  .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-</style>
+## CREATE A XOC-PROJECT
