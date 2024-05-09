@@ -1,4 +1,4 @@
-<img src="https://github.com/Xocrium/xoc-assets/blob/main/logo/png/gradient/logo-company-gradient.png" alt="Xoxrium Company Logo" class="center">
+<img src="https://github.com/Xocrium/xoc-assets/blob/main/logo/png/gradient/logo-company-gradient.png" alt="Xoxrium Company Logo" style="width=50%; display:block; margin-left:auto; margin-right:auto">
 
 # XOC Compiler [XOCC]
 <img src="https://github.com/Xocrium/xoc-assets/blob/main/logo/png/gradient/logo-extension-gradient.png" alt="Xocrium Compiler Logo" style="width:50px; height:50px">
